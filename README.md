@@ -1,1 +1,3 @@
 # smashbot
+
+# hey nick :)
